@@ -21,7 +21,7 @@ Focused on **Flutter**, **offline-first architecture**, and **AI-assisted develo
 
 ## 🚀 Projects & Experience
 
-- 💈 **Santos Barber** — Full SaaS system for barbershops  
+- 💈 **Santos Barber** ( Private ) — Full SaaS system for barbershops  
   → Financial dashboard, scheduling, reports, offline-first sync
 
 - 🤖 Built projects using **100% AI-assisted development**  
