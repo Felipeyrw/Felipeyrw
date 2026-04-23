@@ -27,7 +27,7 @@ Focused on **Flutter**, **offline-first architecture**, and **AI-assisted develo
 - 🤖 Built projects using **100% AI-assisted development**  
   → Including experimental products like *DevRoast*
 
-- 📊 Experience with:
+- 📊 Projects Experience with:
   - Business dashboards
   - Subscription logic
   - Data synchronization
@@ -39,12 +39,10 @@ Focused on **Flutter**, **offline-first architecture**, and **AI-assisted develo
 
 - 🏗️ SaaS & scalable systems  
 - ⚡ Performance optimization  
-- 🧩 Clean architecture & modular design  
+- 🧩 Clean architecture
 - 🔐 Authentication & secure data handling  
-- 💳 Payments & subscription flows  
 - 🤖 Automation & AI integrations  
-- 📊 Data visualization & analytics  
-- 🎓 Content creation & dev education  
+- 📊 Data visualization & analytics    
 
 ---
 
@@ -59,7 +57,6 @@ Focused on **Flutter**, **offline-first architecture**, and **AI-assisted develo
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 
 ### ⚙️ Tools & Infra
 
