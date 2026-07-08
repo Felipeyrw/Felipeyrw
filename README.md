@@ -1,6 +1,6 @@
 # Felipe (Fe) 👋
 
-🚀 **Flutter Engineer | SaaS Builder | AI-Driven Developer**  
+🚀 **Flutter Developer | SaaS Builder | AI-Driven**  
 🇧🇷 Brazil
 
 I don’t just code — I build **products that solve real problems and scale**.
