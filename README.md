@@ -1,4 +1,4 @@
-# Felipe (Fe) 👋
+# Felipe 👋
 
 🚀 **Flutter Developer | SaaS Builder | AI-Driven**  
 🇧🇷 Brazil
